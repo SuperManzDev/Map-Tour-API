@@ -1,2 +1,16 @@
 # Map-Tour-API
-Computer Science Essentials (CSE) | Map Tour Overview  I can: Use the Map, ListPicker, and WebViewer UI components in MIT App Inventor Use lists to store and access destinations on the map and use an API (Application Programming Interface) to display Wikipedia pages of destinations
+ 
+Heyo people This is for Future reference and to keep track PLEASE DO NOT USE THIS FOR NOTORIOUS PURPOSES
+
+##  How to make your "own" Code Comments 
+# Steps 
+Copy This 
+```           
+After the selection is chosen, it will set the maps long and lat to the location of the place selected.
+```
+Paste it in 
+[here](https://quillbot.com/)
+Then paste your "quilled" answer to the comment block
+##HAVE FUN
+#Credits 
+# zack, common sense, me(Manz), you guys for testing it out, Ashaz Mulla money man for being the omniscient

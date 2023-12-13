@@ -1,3 +1,6 @@
+# DOWNLOAD 
+[here](
+https://raw.githubusercontent.com/SuperManzDev/Map-Tour-API/main/MapTour.aia)
 # Map-Tour-API
  
 Heyo people This is for Future reference and to keep track PLEASE DO NOT USE THIS FOR NOTORIOUS PURPOSES
@@ -12,5 +15,5 @@ Paste it in
 [here](https://quillbot.com/)
 Then paste your "quilled" answer to the comment block
 ##HAVE FUN
-#Credits 
-# zack, common sense, me(Manz), you guys for testing it out, Ashaz Mulla money man for being the omniscient
+# Credits 
+## zack, common sense, me(Manz), you guys for testing it out, Ashaz Mulla money man for being the omniscient
